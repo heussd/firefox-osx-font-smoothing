@@ -1,0 +1,4 @@
+@namespace url(http://www.w3.org/1999/xhtml);
+	body, input {
+			-moz-osx-font-smoothing: grayscale;
+}
