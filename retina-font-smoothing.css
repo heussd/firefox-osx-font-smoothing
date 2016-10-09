@@ -1,0 +1,5 @@
+body, input {
+	/* Font smoothing that looks awesome on Retina screens */
+	-moz-osx-font-smoothing: grayscale;
+	-webkit-font-smoothing: antialiased;
+}
