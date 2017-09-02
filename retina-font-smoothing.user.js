@@ -1,5 +1,10 @@
 // ==UserScript==
+// @name Retina font smoothing
 // @description		Enables OS X font smoothing in Firefox by default
+// @namespace https://github.com/heussd/retina-font-smoothing
+// @updateURL https://github.com/heussd/retina-font-smoothing/raw/master/retina-font-smoothing.user.js
+// @match *://*/*
+// @grant none
 // ==/UserScript==
 
 // http://greasemonkey.win-start.de/patterns/add-css.html
