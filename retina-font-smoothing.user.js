@@ -5,6 +5,7 @@
 // @updateURL https://github.com/heussd/retina-font-smoothing/raw/master/retina-font-smoothing.user.js
 // @match *://*/*
 // @grant none
+// @run-at: document-start
 // ==/UserScript==
 
 // http://greasemonkey.win-start.de/patterns/add-css.html
